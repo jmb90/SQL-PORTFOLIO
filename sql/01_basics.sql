@@ -1,4 +1,3 @@
-
 -- FILE: 01_basics.sql
 -- TOPIC: Basic SELECT queries
 -- DATASET: Sakila (PostgreSQL)
